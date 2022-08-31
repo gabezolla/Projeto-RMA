@@ -16,4 +16,4 @@ O robô perfeito para treinar o circuito da auto-escola dos robôs móveis e nun
 A movimentação do robô é dada pelas teclas W, A, S, D.
 As câmeras podem ser alternadas entre <span style="text-decoration: underline">**first-person, perto e distante**</span> com os botões I, O, e P, respectivamente.
 
-![alt text] (https://github.com/gabezolla/Projeto-RMA/blob/main/image.png?raw=true)
+![Screenshot](image.png)
